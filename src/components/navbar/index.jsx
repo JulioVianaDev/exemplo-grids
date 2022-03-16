@@ -22,7 +22,7 @@ const Navbar = ()=>{
             <div class="nav-links">
                 <Link to='/grid_dupla_pra_baixo'> Grid dupla pra baixo</Link>
                 <Link to='/exemplo_grid'> Exemplo Grid</Link>
-                <a href="https://in.linkedin.com/in/jonesvinothjoseph" target="_blank">LinkedIn</a>
+                <Link to='/grid_class'> Exemplo Grid</Link>
                 <a href="https://codepen.io/jo_Geek/" target="_blank">Codepen</a>
                 <a href="https://jsfiddle.net/user/jo_Geek/" target="_blank">JsFiddle</a>
             </div>
